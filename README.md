@@ -4,6 +4,25 @@
 
 ---
 
+<div align="center">
+
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
+  </a>
+  
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter badge" />
+  </a>
+  
+
+  <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Dev.to badge" />
+  </a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -34,4 +53,10 @@
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/LangChain-%2300A67E?style=for-the-badge&logo=OpenAI&logoColor=white" height="35" alt="LangChain badge" />
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/1.gif" width="600" alt="outro gif" />
 </div>
