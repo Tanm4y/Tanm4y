@@ -53,6 +53,8 @@
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/LangChain-%2300A67E?style=for-the-badge&logo=OpenAI&logoColor=white" height="35" alt="LangChain badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="Power BI badge" />
 </div>
 
 ---
